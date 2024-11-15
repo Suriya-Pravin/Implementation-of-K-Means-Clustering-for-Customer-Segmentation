@@ -77,16 +77,37 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
+### DataFrame
 ![Screenshot 2024-10-17 141847](https://github.com/user-attachments/assets/abf78096-7812-44e2-a91a-49fde8bbc06a)
+
+### DataTypes
 ![Screenshot 2024-10-17 141856](https://github.com/user-attachments/assets/d086cad3-8bf5-4c3a-b2a7-63b9c9b39464)
+
+### Null Values
 ![Screenshot 2024-10-17 141904](https://github.com/user-attachments/assets/c915cebe-0ce3-4176-8401-22a04b49e0dd)
+
+### Elbow Method
 ![Screenshot 2024-10-17 141922](https://github.com/user-attachments/assets/c2f87d66-4e44-4af6-a5b5-bd8fd24908dc)
+
+### Cluster labels
 ![Screenshot 2024-10-17 141932](https://github.com/user-attachments/assets/48574418-c177-4b8b-b771-607ef0acb23e)
+
+### df0.head()
 ![Screenshot 2024-10-17 141942](https://github.com/user-attachments/assets/c23a47cb-f83c-4a80-8804-b7f9872fab81)
+
+### df1.head()
 ![Screenshot 2024-10-17 141948](https://github.com/user-attachments/assets/28f556e0-8718-416f-8fcb-9d01fe65b718)
+
+### df2.head()
 ![Screenshot 2024-10-17 141955](https://github.com/user-attachments/assets/21162449-0fc3-4341-a011-1c2062bff558)
+
+### df3.head()
 ![Screenshot 2024-10-17 142002](https://github.com/user-attachments/assets/25eb3f39-97ce-4e30-a8a5-61cfe57e08dc)
+
+### df4.head()
 ![Screenshot 2024-10-17 142008](https://github.com/user-attachments/assets/45333978-5e4d-4909-9314-b5a5d23bb3c4)
+
+### Graph
 ![Screenshot 2024-10-17 142020](https://github.com/user-attachments/assets/6e214a8c-e7e1-4adb-a143-301c6477f169)
 
 
